@@ -1,0 +1,6 @@
+{
+  "password": "Test@1234",
+  "invalidPassword": "wrong-password",
+  "adminName": "QA Admin",
+  "customerName": "QA Customer"
+}

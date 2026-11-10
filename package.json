@@ -1,0 +1,28 @@
+{
+  "name": "serverest-web-cypress",
+  "version": "1.0.0",
+  "description": "End-to-end web tests for the ServeRest front-end with Cypress",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run --spec \"cypress/e2e/**/*.cy.js\"",
+    "test:headed": "cypress run --headed --spec \"cypress/e2e/**/*.cy.js\"",
+    "test:known-issues": "cypress run --spec \"cypress/known-issues/**/*.cy.js\""
+  },
+  "keywords": [
+    "qa",
+    "cypress",
+    "e2e",
+    "test-automation",
+    "accessibility",
+    "axe"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "axe-core": "^4.14.0",
+    "cypress": "15.21.1",
+    "cypress-axe": "^1.7.0",
+    "cypress-mochawesome-reporter": "^5.0.0"
+  }
+}
