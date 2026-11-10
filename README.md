@@ -10,7 +10,8 @@ responsiveness, plus **9 bugs found and documented** in [BUG_REPORTS.md](BUG_REP
 
 This project is the web layer of a small QA portfolio on the same product:
 [API tests](https://github.com/patrick-aguiar-qa/serverest-api-tests) ·
-**Web tests** (this repo).
+**Web tests** (this repo) ·
+[Performance tests (k6)](https://github.com/patrick-aguiar-qa/serverest-k6-performance).
 
 ## Stack
 
