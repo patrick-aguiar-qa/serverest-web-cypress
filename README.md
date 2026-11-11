@@ -97,4 +97,4 @@ npx cypress run --config baseUrl=http://localhost:3000 --env apiUrl=http://local
 
 ## Author
 
-**Patrick Aguiar** — QA Engineer · [GitHub](https://github.com/patrick-aguiar-qa)
+**Patrick Aguiar** — QA Engineer · [LinkedIn](https://www.linkedin.com/in/patrick-aguiar-qa) · [GitHub](https://github.com/patrick-aguiar-qa)
